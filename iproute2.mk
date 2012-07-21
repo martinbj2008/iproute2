@@ -1,7 +1,7 @@
 -include ../../env.mk
 
 all:
-	make ip
+	make
 prepare:
 	./configure
 install:
